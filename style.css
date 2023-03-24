@@ -66,3 +66,12 @@ button:hover {
 .hidden {
   display: none;
 }
+.green{
+  border: 3px solid #4f7d5d;
+}
+.amber{
+  border: 3px solid orange;
+}
+.red{
+  border: 3px solid red;
+}
